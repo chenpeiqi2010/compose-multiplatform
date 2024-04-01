@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest />
+<!--    这是一个最简化的AndroidManifest.xml文件，对于在`shared`模块中特定于Android的代码部分，可能不需要定义额外的Android组件或权限，因此这里是空的。在实际的应用中，主要的AndroidManifest配置通常在androidApp模块中完成。-->
